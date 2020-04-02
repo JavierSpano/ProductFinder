@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Product Finder</string>
+
+    <string name="search_product">Buscar Producto</string>
+
+    <string name="price_format">$%,.2f</string>
+    <string name="product_parcelable_key">product</string>
+    <string name="product_fragment_safe_argument">product</string>
+    <string name="sold_quantity_label">Vendidos:</string>
+    <string name="available_quantity_label">Cantidad disponible:</string>
+    <string name="product_search_error">Algo salio mal  ¯\\_(ツ)_/¯</string>
+</resources>
